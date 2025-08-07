@@ -71,13 +71,13 @@ Each day’s solution will be pushed in the following format:
 
 ## 🙌 Author
 
-**Your Name**  
-📧 [your.email@example.com]  
-🌐 GitHub: [your-github-username](https://github.com/your-github-username)
+**Paramasivam-SK**  
+📧 [paramasivamsk2811@gmail.com]  
+🌐 GitHub: [Paramasivam-SK](https://github.com/Paramasivam-SK)
 
 ---
 
 ## 📜 License
 
 This repository is for personal learning and open sharing. You're welcome to refer, star ⭐, or fork 🍴!  
-**© [Your Name] - 2025**
+**© [Paramasivam-SK] - 2025**
