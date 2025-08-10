@@ -5,18 +5,6 @@ This repository contains my **daily LeetCode problem-solving journey** using **C
 
 ---
 
-## 📅 Structure
-
-Each day’s solution will be pushed in the following format:
-
-```
-/YYYY-MM-DD/
-    └── ProblemName.cpp
-    └── README.md (optional brief explanation)
-```
-
----
-
 ## 💻 Language Used
 
 - **C++17/20**
@@ -46,29 +34,6 @@ Each day’s solution will be pushed in the following format:
 - **Version Control**: Git + GitHub
 
 ---
-
-## 🧾 Example Structure
-
-```
-/2025-08-08/
-    └── TwoSum.cpp
-    └── README.md
-```
-
----
-
-## 📈 Progress Tracker
-
-| Date       | Problem Title         | Difficulty | Status  |
-|------------|-----------------------|------------|---------|
-| 2025-08-08 | Two Sum               | Easy       | ✅ Done |
-| 2025-08-09 | Add Two Numbers       | Medium     | ⏳ Pending |
-| ...        | ...                   | ...        | ...     |
-
-*(Update this table weekly or automate it later!)*
-
----
-
 ## 🙌 Author
 
 **Paramasivam-SK**  
